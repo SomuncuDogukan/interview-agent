@@ -1,0 +1,12 @@
+# HTTP requests to Ollama API
+requests
+
+# Speech-to-Text
+SpeechRecognition
+pyaudio
+
+# Text-to-Speech
+pyttsx3
+
+# Utils
+numpy
